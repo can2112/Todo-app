@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png"); */
+  background-color: rgb(46, 46, 46);
 }
 
 code {
